@@ -1,3 +1,8 @@
+---
+title: "first-Entry"
+date: 2019-05-25
+---
+
 **quick draft of a blog post**
 
 *todo*
